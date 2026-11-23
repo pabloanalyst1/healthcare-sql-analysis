@@ -7,6 +7,8 @@ emergency room, and where the money goes**. A statistical report in **R (Quarto)
 differences are real, including a **difference-in-differences evaluation** of a readmission-reduction
 program.
 
+📊 **[Read the full statistical report](https://pabloanalyst1.github.io/healthcare-sql-analysis/)** (R / Quarto, rendered automatically by GitHub Actions)
+
 **Stack:** SQL (SQLite: CTEs, window functions, recursive CTEs) · R (Quarto, glm, ggplot2) · Python (pipeline, pandas) · pytest · GitHub Actions · Looker Studio *(dashboard: coming next)*
 
 ![Program readmissions](docs/images/program_readmissions.png)
@@ -90,7 +92,7 @@ and result table. The queries live in [`sql/analysis/`](sql/analysis). Highlight
 
 ## Statistical report (R)
 
-[`analysis/healthcare_report.qmd`](analysis/healthcare_report.qmd) reads the warehouse directly and covers:
+**[View the rendered report](https://pabloanalyst1.github.io/healthcare-sql-analysis/)** · source: [`analysis/healthcare_report.qmd`](analysis/healthcare_report.qmd). It reads the warehouse directly and covers:
 
 - **Readmission risk factors:** logistic regression with odds ratios and a forest plot (AUC 0.75).
 - **Program evaluation:** difference-in-differences (logistic and linear probability models) and a
@@ -193,7 +195,7 @@ Explore the warehouse with any SQLite client (for example DB Browser for SQLite 
 ├── scripts/                     # case study and README chart generators
 ├── exports/                     # dashboard-ready CSV files
 ├── docs/                        # case study, data dictionary, charts
-└── .github/workflows/           # CI: tests + pipeline on every push
+└── .github/workflows/           # CI: tests + pipeline; renders and publishes the R report
 ```
 
 ## Design decisions
