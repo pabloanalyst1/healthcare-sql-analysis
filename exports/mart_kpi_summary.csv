@@ -1,0 +1,10 @@
+sort_order,kpi,last_12_months,previous_12_months,change_pct,current_period
+1,Admissions,9544.0,9317.0,0.0244,2025-07-01 to 2026-06-30
+2,30-day readmission rate,0.1143,0.1245,-0.0817,2025-07-01 to 2026-06-30
+3,Average length of stay (days),5.296,5.2788,0.0033,2025-07-01 to 2026-06-30
+4,Average cost per stay (GTQ),31848.3379,31476.7209,0.0118,2025-07-01 to 2026-06-30
+5,In-hospital mortality,0.0449,0.0434,0.0366,2025-07-01 to 2026-06-30
+6,ED visits,37860.0,37088.0,0.0208,2025-07-01 to 2026-06-30
+7,Median door-to-provider (min),76.4,75.2,0.016,2025-07-01 to 2026-06-30
+8,ED left without being seen,0.0745,0.0744,0.0016,2025-07-01 to 2026-06-30
+9,Triage target compliance,0.5842,0.59,-0.0099,2025-07-01 to 2026-06-30

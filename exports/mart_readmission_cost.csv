@@ -1,0 +1,18 @@
+index_icd10_code,index_diagnosis,readmission_stays,readmission_cost_gtq,avg_readmission_cost_gtq,avg_readmission_los_days
+I50.9,Heart failure,601,20511533.0,34706.0,7.86
+C18.9,Colon cancer,287,14524931.0,51144.0,7.76
+J18.9,Pneumonia,436,12814221.0,29663.0,6.71
+J44.1,COPD with acute exacerbation,426,12707746.0,29901.0,6.75
+I21.9,Acute myocardial infarction,198,9785807.0,49674.0,6.06
+A41.9,Sepsis,214,9071268.0,42389.0,8.91
+E11.65,Type 2 diabetes with hyperglycemia,345,8941348.0,26144.0,5.98
+S72.00,Hip fracture,122,7208631.0,59575.0,9.35
+N17.9,Acute kidney failure,168,5733218.0,34126.0,7.39
+I63.9,Ischemic stroke,158,5572329.0,36660.0,7.79
+N39.0,Urinary tract infection,194,3720059.0,19375.0,4.77
+M17.11,Knee osteoarthritis (knee replacement),54,3235783.0,59922.0,5.83
+K80.20,Gallstones (cholecystectomy),64,1642866.0,26498.0,3.88
+K35.80,Acute appendicitis,54,1619041.0,30548.0,4.22
+A09,Infectious gastroenteritis,83,1613969.0,19445.0,4.2
+O82,Cesarean delivery,45,1045485.0,23233.0,4.01
+O80,Normal delivery,30,422638.0,14088.0,2.37

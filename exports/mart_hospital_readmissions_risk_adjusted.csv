@@ -1,0 +1,6 @@
+hospital_id,hospital_name,city,index_stays,observed_readmissions,expected_readmissions,observed_rate,expected_rate,oe_ratio,risk_standardized_rate,rank_best_to_worst
+H01,Volcán Central,Guatemala City,8310,938,1035.1,0.1129,0.1246,0.906,0.1132,1
+H03,Volcán Occidente,Quetzaltenango,5541,636,685.4,0.1148,0.1237,0.928,0.1159,2
+H02,Volcán Mixco,Mixco,6184,796,770.3,0.1287,0.1246,1.033,0.1291,3
+H04,Volcán Sur,Escuintla,4249,579,536.4,0.1363,0.1262,1.08,0.1349,4
+H05,Volcán Norte,Cobán,3688,546,467.8,0.148,0.1268,1.167,0.1458,5

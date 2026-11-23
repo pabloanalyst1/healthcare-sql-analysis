@@ -1,0 +1,9 @@
+program_group,program_period,condition_group,index_stays,readmissions_30d,readmission_rate,eligible_for_call,calls_completed
+Comparison hospitals,Post,Other conditions,4439,427,0.0962,0,0
+Comparison hospitals,Post,Target conditions,1838,388,0.2111,0,0
+Comparison hospitals,Pre,Other conditions,5487,548,0.0999,0,0
+Comparison hospitals,Pre,Target conditions,2357,558,0.2367,0,0
+Program hospitals,Post,Other conditions,4374,365,0.0834,0,0
+Program hospitals,Post,Target conditions,1723,240,0.1393,1723,1476
+Program hospitals,Pre,Other conditions,5537,499,0.0901,0,0
+Program hospitals,Pre,Target conditions,2217,470,0.212,0,0
